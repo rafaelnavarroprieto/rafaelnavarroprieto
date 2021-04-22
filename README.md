@@ -9,8 +9,9 @@
 ##### Projects
 ---
 - :computer: I3met, :office: Ines Ingenieros S.L :date: 2016 - 2018
-- :office: Alten :date: 2018 - Currently
+- :office: Alten :date: 2018 - 2021
 - :computer: vamps, :office: ElevenPaths :date: 2018 - 2021
+- :office: Grupo Edelvives :date: 2021 - currently
 
 
 <!--
